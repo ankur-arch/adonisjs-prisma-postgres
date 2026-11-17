@@ -1,9 +1,9 @@
 {
-  "lockfileVersion": 2,
+  "lockfileVersion": 1,
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "adonisjs-web-stater-kit",
+      "name": "adonisjs-prisma-postgres",
       "dependencies": {
         "@adonisjs/auth": "^10.1.0",
         "@adonisjs/core": "^7.5.2",
